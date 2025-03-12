@@ -1,6 +1,6 @@
 # Hi, I'm Mert! 👋
 
-## 🚀 About Me
+## 🚀 About Me.
 
 I'm a **Senior System Engineer & Cloud Expert** with extensive experience in IT infrastructure, security, and cloud solutions. I specialize in **Microsoft Azure, Microsoft 365, Networking, Virtualization, and IT Consulting**. 
 
