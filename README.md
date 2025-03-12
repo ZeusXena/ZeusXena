@@ -32,9 +32,11 @@ I'm a **Senior System Engineer & Cloud Expert** with extensive experience in IT 
 ## 🤔 I’m looking for help with ...
 
 I am relatively new to these topics and any input is appreciated:
-- **Terraform:**
-- **Automation:**
-- **CI/CD:**  
+- **Terraform**
+- **Automation**
+- **CI/CD**
+- **Azure Apps**
+
 
 ## 📫 Let's Connect
 
