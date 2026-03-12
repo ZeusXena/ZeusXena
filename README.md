@@ -17,22 +17,33 @@ I'm an entrepreneur and IT professional with deep roots in Microsoft Azure, clou
 
 ## 🛠️ Tech Stack
 
-**Cloud & Infrastructure**
+**Cloud & Infrastructure**  
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-**Development**
+**Development**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**AI & Automation**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+**AI & Automation**  
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 
-**DevOps & Identity**
+**Microsoft 365**  
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
+![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Purview](https://img.shields.io/badge/Microsoft_Purview-0F6CBD?style=flat&logo=microsoft&logoColor=white)
+![Exchange Online](https://img.shields.io/badge/Exchange_Online-0078D4?style=flat&logo=microsoftexchange&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-036C70?style=flat&logo=microsoftsharepoint&logoColor=white)
+![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
+
+**DevOps & Identity**  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
