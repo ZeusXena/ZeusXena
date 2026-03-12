@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://bit-partners.ch">
-    <img src="https://raw.githubusercontent.com/ZeusXena/ZeusXena/main/logo.png" alt="Business IT Partners" width="400" />
-  </a>
-</p>
-
----
-
 # Hi, I'm Mert 👋
 
 **Co-Founder & Partner at [Business IT Partners GmbH](https://bit-partners.ch)**  
@@ -54,6 +46,12 @@ I'm an entrepreneur and IT professional with deep roots in Microsoft Azure, clou
 ---
 
 ## 🏢 Business IT Partners
+
+<p align="center">
+  <a href="https://bit-partners.ch">
+    <img src="https://raw.githubusercontent.com/ZeusXena/ZeusXena/main/logo.png" alt="Business IT Partners" width="120" />
+  </a>
+</p>
 
 > Swiss IT partner for Cloud, AI & Software Engineering — reliable, innovative, personal.
 
