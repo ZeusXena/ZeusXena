@@ -1,63 +1,60 @@
-# Hi, I'm Mert! 👋
+# Hi, I'm Mert 👋
 
-## 🚀 About Me.
+**Co-Founder & Partner at [Business IT Partners GmbH](https://bit-partners.ch)**  
+Helping companies in Switzerland and beyond unlock the full potential of Cloud, AI, and Software Engineering.
 
-I'm a **Senior System Engineer & Cloud Expert** with extensive experience in IT infrastructure, security, and cloud solutions. I specialize in **Microsoft Azure, Microsoft 365, Networking, Virtualization, and IT Consulting**. 
+---
 
-  <!-- As the founder of **Business IT Partners (BIT Partners)**, I help companies scale efficiently by leveraging **cutting-edge technologies** and **strategic IT consulting**. -->
-## 💡 What I Do
+## 🚀 About Me
 
-- ☁️ **Microsoft Azure (IaaS, Entra ID, Cloud Migrations, Compliance & Governance)**
-- 🔐 **Security Solutions & Identity Management**
-- 🏢 **Microsoft 365 & Modern Workplace Engineering (Intune, Windows Server, M365 Administration)**
-- 🌐 **Network & Communication Solutions (Routing, Switching, Firewalls, VPNs)**
-- 🔧 **Virtualization (VMware, Hyper-V) & IT Infrastructure**
-- 📊 **Technical Consulting, Pre-Sales & Cross-Functional Collaboration**
-- 📢 **Team Training & Mentoring**
+I'm an entrepreneur and IT professional with deep roots in Microsoft Azure, cloud architecture, and modern software development. Together with my co-founder Daniel Da Cruz, I built **[BIT-Partners](https://bit-partners.ch)** — a Swiss IT company focused on three core pillars:
+
+- ☁️ **Cloud** — Azure architecture, migrations, and managed cloud services
+- 🤖 **Artificial Intelligence** — Private AI deployments, AI workflows, RAG, automation
+- 💻 **Software Engineering** — Custom web & mobile applications, tailored to business needs
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Cloud:** Microsoft Azure, AWS, Google Cloud
-- **Identity & Security:** Entra ID, Conditional Access, Zero Trust, SIEM, Microsoft Purview
-- **Networking:** VLANs, Firewalls, VPNs, Cisco, Routing & Switching
-- **Virtualization:** VMware, Hyper-V
-- **DevOps & Automation:** PowerShell, Terraform, CI/CD, Intune
-- **Backup & Disaster Recovery:** Veeam, MSA Storage, Tape Libraries
-- **Workplace Engineering:** Windows Server, Microsoft 365, Endpoint Management
+**Cloud & Infrastructure**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-## 🌱 I’m currently learning ...
+**Development**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-- **Azure Solutions Architect Expert:** I am currently learning for the role, Azure Solutions Architect Expert with the specific certificates AZ-104, AZ-305
+**AI & Automation**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat&logo=anthropic&logoColor=white)
 
-## 🤔 I’m looking for help with ...
+**DevOps & Identity**
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-I am relatively new to these topics and any input is appreciated:
-- **Terraform**
-- **Automation**
-- **CI/CD**
-- **Azure Apps**
+---
 
+## 🏢 Business IT Partners
+
+> Swiss IT partner for Cloud, AI & Software Engineering — reliable, innovative, personal.
+
+🌍 [bit-partners.ch](https://bit-partners.ch)  
+📧 [info@bit-partners.ch](mailto:info@bit-partners.ch)  
+📍 Affoltern am Albis, Zürich, Switzerland
+
+---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mert-bacak-384b5a1b0/)  
-- 🌍 [Website](https://yourwebsite.com)  
-- 📧 [Email](mailto:mertbacak4@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-bacak-384b5a1b0/)
+[![Website](https://img.shields.io/badge/bit--partners.ch-FA7EB1?style=flat&logo=googlechrome&logoColor=white)](https://bit-partners.ch)
+[![Email](https://img.shields.io/badge/Email-info@bit--partners.ch-383F51?style=flat&logo=gmail&logoColor=white)](mailto:info@bit-partners.ch)
 
-⚡ Always looking for new challenges & collaborations in the IT space!
+---
 
-
-<!--
-**ZeusXena/ZeusXena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ *Building the future of IT in Switzerland — one solution at a time.*
