@@ -39,6 +39,12 @@ I'm an entrepreneur and IT professional with deep roots in Microsoft Azure, clou
 
 ---
 
+## 🌱 Currently Working Towards
+
+**AZ-305 — Azure Solutions Architect Expert**
+
+---
+
 ## 🏢 Business IT Partners
 
 > Swiss IT partner for Cloud, AI & Software Engineering — reliable, innovative, personal.
