@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://bit-partners.ch">
+    <img src="https://raw.githubusercontent.com/ZeusXena/ZeusXena/main/logo.png" alt="Business IT Partners" width="400" />
+  </a>
+</p>
+
+---
+
 # Hi, I'm Mert 👋
 
 **Co-Founder & Partner at [Business IT Partners GmbH](https://bit-partners.ch)**  
