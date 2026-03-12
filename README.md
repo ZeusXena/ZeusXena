@@ -28,10 +28,13 @@ I'm an entrepreneur and IT professional with deep roots in Microsoft Azure, clou
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**AI & Automation**  
+**AI & Automation**
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-CC785C?style=flat&logo=anthropic&logoColor=white)
+![AI Workflows](https://img.shields.io/badge/AI_Workflows-059669?style=flat&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 
